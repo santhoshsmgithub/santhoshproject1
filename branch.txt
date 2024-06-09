@@ -1,1 +1,1 @@
-quick
+git quickpull
